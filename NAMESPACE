@@ -1,3 +1,0 @@
-exportPattern(missing_eval.R)
-exportPattern(mixed_var_cor.R)
-exportPattern(univariate_exploration.R)
