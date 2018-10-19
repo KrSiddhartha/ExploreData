@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539920522284.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "51DC645B",
+    "lastKnownWriteTime" : 1539920150,
+    "last_content_update" : 1539920150,
+    "path" : "~/Downloads/Data Sets/Package/ExploreData/R/cen_ten.R",
+    "project_path" : "R/cen_ten.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

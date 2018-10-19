@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539920524990.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C72EB339",
+    "lastKnownWriteTime" : 1539920239,
+    "last_content_update" : 1539920239,
+    "path" : "~/Downloads/Data Sets/Package/ExploreData/R/cov_mixed.R",
+    "project_path" : "R/cov_mixed.R",
+    "properties" : {
+        "cursorPosition" : "41,0",
+        "scrollLine" : "22",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

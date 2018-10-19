@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539920522708.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A637FDDC",
+    "lastKnownWriteTime" : 1539920261,
+    "last_content_update" : 1539920261,
+    "path" : "~/Downloads/Data Sets/Package/ExploreData/R/cor2pVal.R",
+    "project_path" : "R/cor2pVal.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

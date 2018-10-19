@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539920524477.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ADCBEF9D",
+    "lastKnownWriteTime" : 1539920304,
+    "last_content_update" : 1539920304,
+    "path" : "~/Downloads/Data Sets/Package/ExploreData/R/miss_unq_tab.R",
+    "project_path" : "R/miss_unq_tab.R",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
