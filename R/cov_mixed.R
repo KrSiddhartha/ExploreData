@@ -1,8 +1,10 @@
-mixed_var_cor <- function(df){
-  require(lsr)
-  require(reshape2)
-  require(dplyr)
-
+#' @title Calculates the correlation for a Dataframe
+#' @description Calculates the correlation of all the variables in a data frame irrespective of their class
+#' @param data.frame
+#' @return matrix
+#' @example cov_mixed(df)
+#' @export
+cov_mixed <- function(df){
   cor_mixed <- function(var1, var2){
     if(class(var1) %in% c("integer", "numeric") && class(var2) %in% c("integer", "numeric")){
       cor_val <- stats::cor(var1, var2, use = "pairwise.complete.obs")}

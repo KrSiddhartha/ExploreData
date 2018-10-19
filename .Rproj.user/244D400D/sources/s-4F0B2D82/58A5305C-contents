@@ -1,3 +1,9 @@
+#' @title Central Tendency stats
+#' @description Calculates the central tendency features for numerical variables
+#' @param numeric
+#' @return data.frame
+#' @example central_tendency(var_to)
+#' @export
 central_tendency <- function(var_to){
   require(EnvStats)
   data.frame(Mean = mean(var_to, na.rm = T),
