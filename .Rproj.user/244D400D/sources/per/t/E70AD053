@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539934829365.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E70AD053",
+    "lastKnownWriteTime" : 1539920239,
+    "last_content_update" : 1539934829365,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "4e7fc0168d814f35b775a5a51aecee64",
+        "name" : "cor_hp",
+        "title" : "cor_hp"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

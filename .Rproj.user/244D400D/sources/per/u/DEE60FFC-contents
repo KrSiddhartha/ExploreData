@@ -1,0 +1,4 @@
+library(devtools)
+install_github("KrSiddhartha/ExploreData")
+cor_hp <- correlate(hp)
+cov_mixed(hp)
